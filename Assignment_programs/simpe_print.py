@@ -1,0 +1,12 @@
+# Print any 5 different patterns (just use print)
+
+print(f'**********')
+print(f'**** ****')
+print(f'***  ***')
+print(f'**    **')
+print(f'*      *')
+print(f'*      *')
+print(f'**    **')
+print(f'***  ***')
+print(f'**** ****')
+print(f'*********')
