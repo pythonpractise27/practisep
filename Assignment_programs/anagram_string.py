@@ -1,4 +1,4 @@
-# 13.Check if two given numbers are Anagram or not - hint: use list/string functions to do this
+# 13.Check if two given strings are Anagram or not - hint: use list/string functions to do this
 n1=input('Enter the first input value with two digits: ')
 n2=input('Enter the second input value with two digits: ')
 print(f'{sorted(n1)}')
