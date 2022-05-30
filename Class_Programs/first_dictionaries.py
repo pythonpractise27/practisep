@@ -16,4 +16,4 @@ my_dict[4]='Bhargavi'
 my_dict[5]='Krishna'
 print(my_dict)
 for key in my_dict:
-   print( my_dict[key])
+   print({key}:my_dict[key])
