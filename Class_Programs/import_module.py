@@ -11,5 +11,5 @@ modul.add(n1,n2)
 modul.product(n1,n2)
 
 
-for i in range(10):
+for i in range(1,10):
     print(modul.random.uniform(1,5))
